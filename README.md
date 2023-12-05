@@ -1,5 +1,1 @@
-# SI-Restoran-Front-End
-# SI-Restoran-Front-End
-# SI-Restoran-Front-End
-# SI-Restoran-Front-End
-# SI-Restoran-Front-End
+Front end untuk Sistem Informasi Restoran bintang 5
